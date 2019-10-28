@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Hecho por Alexander Castro M.
+## Alexander Castro . Mora.
 
 You can use the [editor on GitHub](https://github.com/Stefan-Castro/Pag-Web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
